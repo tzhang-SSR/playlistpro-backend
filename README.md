@@ -1,4 +1,12 @@
-# OAuth bridge template
+# Spotify Master (Backend)
+A web app built with React and Spotify Web API that allows user to search for their favoriate artists and preview the artist's Top 10 albums.
+
+Modified based on [oauth-bridge-template](https://github.com/mpj/oauth-bridge-template)
+
+## Preview
+![Screenshot of Application](screenshot.png)
+
+## OAuth bridge template
 
 This service logs in to Spotify and redirects the user to a given frontend application with a valid access_token as a parameter in the url.
 
