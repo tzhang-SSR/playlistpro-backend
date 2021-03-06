@@ -1,14 +1,18 @@
 {
-  "name": "oauth-bridge-template",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.15.4",
-    "querystring": "^0.2.0",
-    "request": "^2.81.0"
-  }
+	"name": "oauth-bridge-template",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"querystring": "^0.2.0",
+		"request": "^2.81.0",
+		"hoek": ">=4.2.1",
+		"mime": ">=1.4.1",
+		"fresh": ">=0.5.2",
+		"cryptiles": ">=4.1.2"
+	}
 }
