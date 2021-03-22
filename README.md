@@ -1,10 +1,7 @@
-# Spotify Master (Backend)
-A web app built with React and Spotify Web API that allows user to search for their favoriate artists and preview the artist's Top 10 albums.
+# PlaylistPro (Backend)
+A web app built with React and Spotify Web API that allows user to creae playlists more efficiently
 
 Modified based on [oauth-bridge-template](https://github.com/mpj/oauth-bridge-template)
-
-## Preview
-![Screenshot of Application](screenshot.png)
 
 ## OAuth bridge template
 
